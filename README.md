@@ -8,5 +8,5 @@ Este é um projeto que fiz para relembrar alguns conceitos de HTML e CSS, especi
 
 ## Versão Mobile
 
-![Versão Mobile](img/mobile_1.png)
-![Versão Mobile](img/mobile_2.png)  
+![Versão Mobile](img/1.jpeg)
+![Versão Mobile](img/2.jpeg)  
