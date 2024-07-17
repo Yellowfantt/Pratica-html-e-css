@@ -8,5 +8,5 @@ Este é um projeto que fiz para relembrar alguns conceitos de HTML e CSS, especi
 
 ## Versão Mobile
 
-![Versão Mobile](img/1.jpeg)
-![Versão Mobile](img/2.jpeg)  
+<img src="img/1.jpeg" alt="Versão Mobile 1" width="300">
+<img src="img/2.jpeg" alt="Versão Mobile 2" width="300">
